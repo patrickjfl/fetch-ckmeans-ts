@@ -3,5 +3,6 @@
         "target": "ESNext",
         "watch": true,
         "lib": ["ES6", "dom"],
+        "esModuleInterop":true,
     }
 }

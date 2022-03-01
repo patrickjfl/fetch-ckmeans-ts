@@ -9,11 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lru-cache": "^7.4.0",
     "node-fetch": "^3.2.1",
     "typescript": "^4.6.2"
   },
   "type": "module",
   "devDependencies": {
+    "@types/lru-cache": "^7.4.0",
     "@types/node-fetch": "^2.6.1"
   }
 }
